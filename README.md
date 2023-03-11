@@ -124,26 +124,26 @@
 </div>
 -->
 
-## Valuable repo's I contributed to
+<!-- ## Valuable repo's I contributed to -->
 
-<div id="vertical_spacer0">
-  <a href="">
-    <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="0" height="7">
-  </a>
-</div>
+<!-- <div id="vertical_spacer0"> -->
+<!--   <a href=""> -->
+<!--     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="0" height="7"> -->
+<!--   </a> -->
+<!-- </div> -->
 
-<a href="https://github.com/thangeshbabu/Projet-de-genie-logiciel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thangeshbabu&repo=Projet-de-genie-logiciel&theme=gruvbox" />
-</a>
-<a href="https://github.com/thangeshbabu/ReversiAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thangeshbabu&repo=ReversiAI&theme=gruvbox" />
-</a>
-<a href="https://github.com/Exter007/MyUMonsSchedule">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Exter007&repo=MyUMonsSchedule&theme=gruvbox" />
-</a>
-<a href="https://github.com/thangeshbabu/Sokoban-Java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thangeshbabu&repo=Sokoban-Java&theme=gruvbox" />
-</a>
+<!-- <a href="https://github.com/thangeshbabu/Projet-de-genie-logiciel"> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thangeshbabu&repo=Projet-de-genie-logiciel&theme=gruvbox" /> -->
+<!-- </a> -->
+<!-- <a href="https://github.com/thangeshbabu/ReversiAI"> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thangeshbabu&repo=ReversiAI&theme=gruvbox" /> -->
+<!-- </a> -->
+<!-- <a href="https://github.com/Exter007/MyUMonsSchedule"> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Exter007&repo=MyUMonsSchedule&theme=gruvbox" /> -->
+<!-- </a> -->
+<!-- <a href="https://github.com/thangeshbabu/Sokoban-Java"> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thangeshbabu&repo=Sokoban-Java&theme=gruvbox" /> -->
+<!-- </a> -->
 
 <div id="vertical_spacer0">
   <a href="">
