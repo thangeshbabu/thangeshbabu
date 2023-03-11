@@ -13,14 +13,11 @@
   <a href="">
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="45" height="50">
   </a>
-  <a href="https://www.linkedin.com/in/arnaud-moreau-251777223">
+  <a href="https://www.linkedin.com/in/thangesh-babu-a-433bb5250">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100" height="22">
   </a>
   <a href="">
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/%20Nephty%236217-Discord-blueviolet?logo=discord&logoColor=white&style=for-the-badge" width="200" height="22">
   </a>
   <a href="">
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10">
@@ -37,11 +34,11 @@
 </div>
 
 ## 🖥️ About me
-🇧🇪 ‎ ‎ <b>></b> ‎ From Belgium
+🇧🇪 ‎ ‎ <b>></b> ‎ From India
 
-🧑‍🎓 ‎ ‎ <b>></b> ‎ Master's degree Computer Science student at University of Mons (2020-2025)
+<!-- 🧑‍🎓 ‎ ‎ <b>></b> ‎ Master's degree Computer Science student at University of Mons (2020-2025) -->
 
-🧑‍💻 ‎ ‎ <b>></b> ‎ Passionate developper
+🧑‍💻 ‎ ‎ <b>></b> ‎ DevOps Engineer
 
 <div id="vertical_spacer0">
   <a href="">
@@ -52,7 +49,7 @@
 ## 📜 Languages & Tools
 ### OS
 <div id="os" alignment="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://png2.cleanpng.com/sh/745a052cadabeecd8b9f15f67cbf9d7e/L0KzQYm3VMA0N5J4fZH0aYP2gLBuTfFza5kyhNt3dYiwhLjDTfxqdqZ9RadqY0PpdIiAUcE0QWU6RqsBM0K8RYG9UcUzOmgAS6o9N0C6QIe1kP5o/kisspng-arch-linux-tgz-linux-5ac3fd77113945.9632950615227938470706.png" title="ArchLinux" alt="ArchLinux" width="40" height="40"/>&nbsp;
   <a href="">
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10">
   </a>
@@ -82,23 +79,24 @@
 
 ### Languages
 <div id="languages" alignment="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" title="C" alt="C" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" title="C" alt="C" height="40"/>&nbsp; -->
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp; -->
 <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostGreSQL" alt="PostGreSQL" width="40" height="40"/>&nbsp;  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp; -->
 </div>
 
 ### Development & productivity tools
 
 <div id="devtools" alignment="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
@@ -159,9 +157,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thangeshbabu&count_private=true&show_icons=true&custom_title=thangeshbabu's%20GitHub%20Stats&theme=gruvbox)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thangeshbabu&theme=gruvbox&date_format=j%20M%5B%20Y%5D&border=FFFFFF&sideLabels=D9A4FF)](https://git.io/streak-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thangeshbabu&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
