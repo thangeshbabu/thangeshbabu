@@ -63,9 +63,9 @@
 
 ### Tools
 <div id="tools" alignment="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/i3/i3/raw/next/docs/logo-30.png" title="i3" alt="i3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tmux.svg" title="Tmux" alt="Tmux" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png" title="Alacritty" alt="Alacritty" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp; -->
   <!-- <a href=""> -->
@@ -95,9 +95,12 @@
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp; -->
 </div>
 
-### Development & productivity tools
+### Development
 
 <div id="devtools" alignment="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
