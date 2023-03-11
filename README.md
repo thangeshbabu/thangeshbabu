@@ -82,7 +82,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fa%2Faf%2FPowerShell_Core_6.0_icon.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APowerShell_Core_6.0_icon.png&tbnid=ovcflRNrT6ngoM&vet=12ahUKEwivgZvIpNP9AhX593MBHQwTBmwQMygBegUIARDBAQ..i&docid=6w1yApK1Kx4hpM&w=256&h=256&q=powershell%20logo%20svg&ved=2ahUKEwivgZvIpNP9AhX593MBHQwTBmwQMygBegUIARDBAQ" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/powershell-3628405-3032240.png" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" title="C" alt="C" height="40"/>&nbsp; -->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp; -->
 <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
