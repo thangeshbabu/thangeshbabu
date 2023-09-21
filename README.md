@@ -49,7 +49,7 @@
 ## 📜 Languages & Tools
 ### OS
 <div id="os" alignment="left">
-  <img src="https://png2.cleanpng.com/sh/745a052cadabeecd8b9f15f67cbf9d7e/L0KzQYm3VMA0N5J4fZH0aYP2gLBuTfFza5kyhNt3dYiwhLjDTfxqdqZ9RadqY0PpdIiAUcE0QWU6RqsBM0K8RYG9UcUzOmgAS6o9N0C6QIe1kP5o/kisspng-arch-linux-tgz-linux-5ac3fd77113945.9632950615227938470706.png" title="ArchLinux" alt="ArchLinux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" title="ArchLinux" alt="ArchLinux btw" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <!-- <a href=""> -->
   <!--   <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10"> -->
