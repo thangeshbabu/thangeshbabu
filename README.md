@@ -49,8 +49,8 @@
 ## 📜 Languages & Tools
 ### OS
 <div id="os" alignment="left">
-  <img src="https://w7.pngwing.com/pngs/750/566/png-transparent-nix-package-manager-nixos-linux-distribution-gnu-guix-logo-watercolor-blue-angle-text.png" title="NixOS" alt="ArchLinux btw" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" title="ArchLinux" alt="ArchLinux btw" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/NixOS_logo.svg" title="NixOS" alt="NixOS" width="40" height="40"/>&nbsp;
   <!-- <a href=""> -->
   <!--   <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10"> -->
   <!-- </a> -->
