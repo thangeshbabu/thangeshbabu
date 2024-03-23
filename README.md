@@ -34,7 +34,7 @@
 </div>
 
 ## 🖥️ About me
-🇧🇪 ‎ ‎ <b>></b> ‎ From India
+ 🇮🇳  ‎ <b>></b> ‎ From India
 
 <!-- 🧑‍🎓 ‎ ‎ <b>></b> ‎ Master's degree Computer Science student at University of Mons (2020-2025) -->
 
