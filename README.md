@@ -50,7 +50,7 @@
 ### OS
 <div id="os" alignment="left">
   <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" title="ArchLinux" alt="ArchLinux btw" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/NixOS_logo.svg" title="NixOS" alt="NixOS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" title="NixOS" alt="NixOS" width="40" height="40"/>&nbsp;
   <!-- <a href=""> -->
   <!--   <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10"> -->
   <!-- </a> -->
