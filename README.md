@@ -38,7 +38,7 @@
 
 <!-- 🧑‍🎓 ‎ ‎ <b>></b> ‎ Master's degree Computer Science student at University of Mons (2020-2025) -->
 
-🧑‍💻 ‎ ‎ <b>></b> ‎ DevOps Engineer
+🧑‍💻 ‎ ‎ <b>></b> ‎ SR DevSecOps/ Platform Engineer
 
 <div id="vertical_spacer0">
   <a href="">
